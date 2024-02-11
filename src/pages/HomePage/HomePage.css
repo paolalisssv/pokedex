@@ -1,0 +1,39 @@
+.container-home-page{
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+}
+
+.title{
+    text-align: center;
+    font-size: 20px;
+}
+
+.container-pokedex{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.wrapper-pokedex{
+    background: #CC0000;
+    padding: 40px;
+    border-radius: 9px;
+    margin: 20px;
+}
+
+.wrapper-img{
+    background: white;
+    height: 500px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-img{
+    height: 280px;
+}
+
+.img-pokemon{
+    height: 350px;
+}

@@ -1,0 +1,15 @@
+.container-pokemon-detail{
+    padding: 30px;
+}
+.btn-transparent{
+    background: transparent;
+    border: none;
+}
+
+.name-text{
+    text-align: center;
+}
+
+.img{
+    height: 250px;
+}

@@ -1,0 +1,19 @@
+.pagination-wrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    padding: 20px;
+}
+
+.btn-transparent{
+    background: transparent;
+    border: none;
+}
+
+.px-18{
+    padding-left: 18px;
+    padding-right: 18px;
+}
